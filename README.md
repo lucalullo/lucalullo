@@ -39,7 +39,6 @@ Sviluppo dataset, notebook e modelli predittivi in diversi ambiti, con particola
 | [Italian Justice System Workload](https://github.com/lucalullo/Italian-justice-workload) | Dati Istituzionali | Analisi civile/penale 2003–2024, auditing |
 | [Home Credit Default Risk](https://github.com/lucalullo/Home-credit-default-risk) | Credit Risk ML | XGBoost, LightGBM, SHAP, feature engineering |
 | [Global Emissions & Temperature](https://github.com/lucalullo/Global-emissions-and-temperature-1950-2024) | Clima / Serie Storiche | CO₂, GHG, temperature 1950–2024 |
-| [Disaster Tweets Classification](https://github.com/lucalullo/Disaster-tweets) | NLP | RoBERTa vs DistilBERT, PyTorch/TensorFlow |
 
 ---
 
