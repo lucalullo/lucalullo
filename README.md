@@ -1,12 +1,21 @@
 # Luca Lullo — Data Scientist
 
-Specializzato in **data engineering**, **advanced data cleaning** e **machine learning applicato** a dati pubblici e socio-economici.
+Data Scientist indipendente specializzato in **data analysis**, **data cleaning avanzato** e **machine learning**. 
 
-Costruisco dataset, notebook e modelli predittivi con attenzione alla riproducibilità, alla qualità dei dati e all'interpretabilità dei risultati.
+Sviluppo dataset, notebook e modelli predittivi in diversi ambiti, con particolare attenzione all’**analisi di dati pubblici**, **sistemi istituzionali** e **dinamiche socio-economiche**. Mi occupo di integrazione di dataset eterogenei, costruzione di indicatori comparabili e sviluppo di analisi riproducibili per auditing, ricerca e supporto alle decisioni, utilizzando Python per trasformare dati complessi in informazioni affidabili e utilizzabili.
 
 ---
 
-## 🛠 Stack
+## 🏆 Kaggle 2x Expert
+
+[![Kaggle](https://img.shields.io/badge/Kaggle-lucalullo-20BEFF?style=flat&logo=kaggle&logoColor=white)](https://www.kaggle.com/lucalullo)
+
+*   **Datasets Expert:** Top 100 globale (Rank 87) · 15 dataset pubblici con Usability Score 10.0
+*   **Notebooks Expert:** Rank ~1.098 · 25+ notebook pubblicati
+
+---
+
+## 🛠 Stack Tecnologico
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
@@ -22,23 +31,15 @@ Costruisco dataset, notebook e modelli predittivi con attenzione alla riproducib
 
 ---
 
-## 📂 Progetti selezionati
+## 📂 Progetti in evidenza
 
-| Progetto | Tema | Highlights |
+| Progetto | Tema | Strumenti & Highlights |
 |---|---|---|
-| [Home Credit Default Risk](https://github.com/lucalullo/Home-credit-default-risk) | Credit risk ML | XGBoost, SHAP, feature engineering |
-| [Italian Justice Workload](https://github.com/lucalullo/Italian-justice-workload) | Dati istituzionali | Analisi civile/penale 2003–2024 |
-| [Global Emissions & Temperature](https://github.com/lucalullo/Global-emissions-and-temperature-1950-2024) | Clima | CO₂, GHG, temperature 1950–2024 |
-| [Used Car Prices](https://github.com/lucalullo/Used-car-prices) | Regressione | LightGBM, feature engineering |
-| [Customer Churn](https://github.com/lucalullo/Customer-churn) | Classificazione | Random Forest, class balancing |
-
----
-
-## 📊 Kaggle
-
-**Datasets Expert — Top 100 globale** · 15 dataset pubblici · usability score 10.0
-
-[![Kaggle](https://img.shields.io/badge/Kaggle-lucalullo-20BEFF?style=flat&logo=kaggle&logoColor=white)](https://www.kaggle.com/lucalullo)
+| [Global Inequality and Poverty (1980–2024)](https://github.com/lucalullo/Global-inequality-and-poverty) | Socio-Economia | Data integration, indicatori globali comparabili |
+| [Italian Justice System Workload](https://github.com/lucalullo/Italian-justice-workload) | Dati Istituzionali | Analisi civile/penale 2003–2024, auditing |
+| [Home Credit Default Risk](https://github.com/lucalullo/Home-credit-default-risk) | Credit Risk ML | XGBoost, LightGBM, SHAP, feature engineering |
+| [Global Emissions & Temperature](https://github.com/lucalullo/Global-emissions-and-temperature-1950-2024) | Clima / Serie Storiche | CO₂, GHG, temperature 1950–2024 |
+| [Disaster Tweets Classification](https://github.com/lucalullo/Disaster-tweets) | NLP | RoBERTa vs DistilBERT, PyTorch/TensorFlow |
 
 ---
 
