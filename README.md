@@ -1,4 +1,4 @@
-# Luca Lullo — Data Scientist
+# Luca Lullo - Data Scientist
 
 Data Scientist indipendente specializzato in **data analysis**, **data cleaning avanzato** e **machine learning**. 
 
