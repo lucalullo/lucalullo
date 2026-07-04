@@ -7,8 +7,8 @@ Sviluppo dataset, notebook e modelli predittivi in diversi ambiti, con particola
 ## 🏆 Kaggle 2x Expert
 [![Kaggle](https://img.shields.io/badge/Kaggle-lucalullo-20BEFF?style=flat&logo=kaggle&logoColor=white)](https://www.kaggle.com/lucalullo)
 
-*   **Datasets Expert:** Top 100 globale (Rank 87) · 15 dataset pubblici con Usability Score 10.0
-*   **Notebooks Expert:** Rank ~1.098 · 25+ notebook pubblicati
+*   **Datasets Expert:** Rank 79 di 10.426 (miglior rank raggiunto: 76) · 11 medaglie
+*   **Notebooks Expert:** Rank 751 di 62.362 · 13 medaglie
 
 ---
 
