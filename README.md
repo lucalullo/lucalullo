@@ -1,13 +1,10 @@
 # Luca Lullo - Data Scientist
-
 Data Scientist indipendente specializzato in **data analysis**, **data cleaning avanzato** e **machine learning**. 
-
 Sviluppo dataset, notebook e modelli predittivi in diversi ambiti, con particolare attenzione all’**analisi di dati pubblici**, **sistemi istituzionali** e **dinamiche socio-economiche**. Mi occupo di integrazione di dataset eterogenei, costruzione di indicatori comparabili e sviluppo di analisi riproducibili per auditing, ricerca e supporto alle decisioni, utilizzando Python per trasformare dati complessi in informazioni affidabili e utilizzabili.
 
 ---
 
 ## 🏆 Kaggle 2x Expert
-
 [![Kaggle](https://img.shields.io/badge/Kaggle-lucalullo-20BEFF?style=flat&logo=kaggle&logoColor=white)](https://www.kaggle.com/lucalullo)
 
 *   **Datasets Expert:** Top 100 globale (Rank 87) · 15 dataset pubblici con Usability Score 10.0
@@ -16,7 +13,6 @@ Sviluppo dataset, notebook e modelli predittivi in diversi ambiti, con particola
 ---
 
 ## 🛠 Stack Tecnologico
-
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
@@ -32,9 +28,10 @@ Sviluppo dataset, notebook e modelli predittivi in diversi ambiti, con particola
 ---
 
 ## 📂 Progetti in evidenza
-
 | Progetto | Tema | Strumenti & Highlights |
 |---|---|---|
+| [Customer Support Agent](https://github.com/lucalullo/Customer-support-agent) | AI Agent / HITL | Google ADK, Gemini, classificazione email, escalation umana |
+| [Building an AI Agent](https://www.kaggle.com/code/lucalullo/building-an-ai-agent) | AI Agent (from scratch) | Agente a regole in Python puro, routing, parsing regex, memoria |
 | [Global Inequality and Poverty (1980–2024)](https://github.com/lucalullo/Global-inequality-and-poverty) | Socio-Economia | Data integration, indicatori globali comparabili |
 | [Italian Justice System Workload](https://github.com/lucalullo/Italian-justice-workload) | Dati Istituzionali | Analisi civile/penale 2003–2024, auditing |
 | [Home Credit Default Risk](https://github.com/lucalullo/Home-credit-default-risk) | Credit Risk ML | XGBoost, LightGBM, SHAP, feature engineering |
@@ -43,5 +40,4 @@ Sviluppo dataset, notebook e modelli predittivi in diversi ambiti, con particola
 ---
 
 ## 📬 Contatti
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Luca%20Lullo-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luca-lullo)
