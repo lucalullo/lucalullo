@@ -48,7 +48,7 @@ Utilizzo principalmente Python per trasformare dati complessi in informazioni af
 | Progetto | Ambito | Strumenti e caratteristiche |
 |---|---|---|
 | [Customer Support Agent](https://github.com/lucalullo/Customer-support-agent) | AI Agent / Human-in-the-loop | Google ADK, Gemini, classificazione delle email ed escalation umana |
-| [Building an AI Agent](https://github.com/lucalullo/building-ai-agent) | AI Agent from scratch | Python puro, routing, parsing, esecuzione di tool e memoria |
+| [Building AI Agent](https://github.com/lucalullo/building-ai-agent) | AI Agent from scratch | Python puro, routing, parsing, esecuzione di tool e memoria |
 | [Global Inequality and Poverty — 1980–2024](https://github.com/lucalullo/Global-inequality-and-poverty) | Socio-economia | Data integration e costruzione di indicatori globali comparabili |
 | [Italian Justice System Workload](https://github.com/lucalullo/Italian-justice-workload) | Dati istituzionali | Analisi civile e penale 2003–2024, auditing e controllo dei dati |
 | [Home Credit Default Risk](https://github.com/lucalullo/Home-credit-default-risk) | Credit Risk / Machine Learning | XGBoost, LightGBM, SHAP e feature engineering |
