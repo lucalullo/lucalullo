@@ -1,4 +1,4 @@
-# Luca Lullo — Data Scientist
+# Luca Lullo - Data Scientist
 
 Data Scientist indipendente specializzato in **data analysis**, **data cleaning avanzato** e **machine learning**.
 
@@ -20,8 +20,8 @@ Utilizzo principalmente Python per trasformare dati complessi in informazioni af
 
 [![Kaggle](https://img.shields.io/badge/Kaggle-lucalullo-20BEFF?style=flat&logo=kaggle&logoColor=white)](https://www.kaggle.com/lucalullo)
 
-- **Datasets Expert:** rank 79 su 10.426 — miglior rank raggiunto: 76 — 11 medaglie
-- **Notebooks Expert:** rank 751 su 62.362 — 13 medaglie
+- **Datasets Expert:** rank 79 su 10.426 - miglior rank raggiunto: 76 - 11 medaglie
+- **Notebooks Expert:** rank 751 su 62.362 - 13 medaglie
 
 ---
 
@@ -49,10 +49,10 @@ Utilizzo principalmente Python per trasformare dati complessi in informazioni af
 |---|---|---|
 | [Customer Support Agent](https://github.com/lucalullo/Customer-support-agent) | AI Agent / Human-in-the-loop | Google ADK, Gemini, classificazione delle email ed escalation umana |
 | [Building AI Agent](https://github.com/lucalullo/building-ai-agent) | AI Agent from scratch | Python puro, routing, parsing, esecuzione di tool e memoria |
-| [Global Inequality and Poverty — 1980–2024](https://github.com/lucalullo/Global-inequality-and-poverty) | Socio-economia | Data integration e costruzione di indicatori globali comparabili |
-| [Italian Justice System Workload](https://github.com/lucalullo/Italian-justice-workload) | Dati istituzionali | Analisi civile e penale 2003–2024, auditing e controllo dei dati |
+| [Global Inequality and Poverty - 1980-2024](https://github.com/lucalullo/Global-inequality-and-poverty) | Socio-economia | Data integration e costruzione di indicatori globali comparabili |
+| [Italian Justice System Workload](https://github.com/lucalullo/Italian-justice-workload) | Dati istituzionali | Analisi civile e penale 2003-2024, auditing e controllo dei dati |
 | [Home Credit Default Risk](https://github.com/lucalullo/Home-credit-default-risk) | Credit Risk / Machine Learning | XGBoost, LightGBM, SHAP e feature engineering |
-| [Global Emissions & Temperature — 1950–2024](https://github.com/lucalullo/Global-emissions-and-temperature-1950-2024) | Clima e serie storiche | Analisi di CO₂, gas serra e temperature globali |
+| [Global Emissions & Temperature - 1950–2024](https://github.com/lucalullo/Global-emissions-and-temperature-1950-2024) | Clima e serie storiche | Analisi di CO₂, gas serra e temperature globali |
 
 ---
 
