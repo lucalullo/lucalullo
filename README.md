@@ -31,7 +31,7 @@ Sviluppo dataset, notebook e modelli predittivi in diversi ambiti, con particola
 | Progetto | Tema | Strumenti & Highlights |
 |---|---|---|
 | [Customer Support Agent](https://github.com/lucalullo/Customer-support-agent) | AI Agent / HITL | Google ADK, Gemini, classificazione email, escalation umana |
-| [Building an AI Agent](https://www.kaggle.com/code/lucalullo/building-an-ai-agent) | AI Agent (from scratch) | Agente a regole in Python puro, routing, parsing regex, memoria |
+| [Building AI Agent](https://www.https://github.com/lucalullo/building-ai-agent) | AI Agent (from scratch) | Agente a regole in Python puro, routing, parsing regex, memoria |
 | [Global Inequality and Poverty (1980–2024)](https://github.com/lucalullo/Global-inequality-and-poverty) | Socio-Economia | Data integration, indicatori globali comparabili |
 | [Italian Justice System Workload](https://github.com/lucalullo/Italian-justice-workload) | Dati Istituzionali | Analisi civile/penale 2003–2024, auditing |
 | [Home Credit Default Risk](https://github.com/lucalullo/Home-credit-default-risk) | Credit Risk ML | XGBoost, LightGBM, SHAP, feature engineering |
