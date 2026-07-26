@@ -1,8 +1,8 @@
 # Luca Lullo - Data Scientist
 
-Data Scientist indipendente specializzato in **data analysis**, **data cleaning avanzato** e **machine learning**.
+Data Scientist indipendente specializzato in **data analysis**, **data cleaning avanzato**, **machine learning** e sviluppo di sistemi di intelligenza artificiale.
 
-Sviluppo dataset, notebook e modelli predittivi in diversi ambiti, con particolare attenzione all’analisi di **dati pubblici**, **sistemi istituzionali** e **dinamiche socio-economiche**.
+Sviluppo dataset, notebook, modelli predittivi e progetti educativi in diversi ambiti, con particolare attenzione all’analisi di **dati pubblici**, **sistemi istituzionali**, **dinamiche socio-economiche**, **AI agent** e **language model costruiti dalle basi**.
 
 Mi occupo di:
 
@@ -10,9 +10,11 @@ Mi occupo di:
 - costruzione di indicatori comparabili;
 - sviluppo di analisi riproducibili;
 - auditing e controllo della qualità dei dati;
-- modelli predittivi e supporto alle decisioni.
+- modelli predittivi e supporto alle decisioni;
+- progettazione di AI agent;
+- sviluppo progressivo di language model from scratch.
 
-Utilizzo principalmente Python per trasformare dati complessi in informazioni affidabili, comprensibili e utilizzabili.
+Utilizzo principalmente Python per trasformare dati complessi in informazioni affidabili, comprensibili e utilizzabili e per studiare in modo trasparente i meccanismi alla base dei sistemi di intelligenza artificiale.
 
 ---
 
@@ -20,8 +22,8 @@ Utilizzo principalmente Python per trasformare dati complessi in informazioni af
 
 [![Kaggle](https://img.shields.io/badge/Kaggle-lucalullo-20BEFF?style=flat&logo=kaggle&logoColor=white)](https://www.kaggle.com/lucalullo)
 
-- **Datasets Expert:** rank 79 su 10.426 - miglior rank raggiunto: 76 - 11 medaglie
-- **Notebooks Expert:** rank 751 su 62.362 - 13 medaglie
+- **Datasets Expert:** rank 76 su 10.784 - miglior rank raggiunto: 70 - 13 medaglie (9 argento e 4 bronzo)
+- **Notebooks Expert:** rank 557 su 61.656 - miglior rank raggiunto: 515 - 17 medaglie di bronzo
 
 ---
 
@@ -48,7 +50,8 @@ Utilizzo principalmente Python per trasformare dati complessi in informazioni af
 | Progetto | Ambito | Strumenti e caratteristiche |
 |---|---|---|
 | [Customer Support Agent](https://github.com/lucalullo/Customer-support-agent) | AI Agent / Human-in-the-loop | Google ADK, Gemini, classificazione delle email ed escalation umana |
-| [Building AI Agent](https://github.com/lucalullo/building-ai-agent) | AI Agent from scratch | Python puro, routing, parsing, esecuzione di tool e memoria |
+| [Building AI Agent](https://github.com/lucalullo/building-ai-agent) | AI Agent from scratch | Python standard, routing, planning, parsing, esecuzione di tool e memoria |
+| [Building LLM](https://github.com/lucalullo/building-llm) | Language Model from scratch | Percorso progressivo da un modello statistico a caratteri a uno small Transformer decoder-only |
 | [Global Inequality and Poverty - 1980-2024](https://github.com/lucalullo/Global-inequality-and-poverty) | Socio-economia | Data integration e costruzione di indicatori globali comparabili |
 | [Italian Justice System Workload](https://github.com/lucalullo/Italian-justice-workload) | Dati istituzionali | Analisi civile e penale 2003-2024, auditing e controllo dei dati |
 | [Home Credit Default Risk](https://github.com/lucalullo/Home-credit-default-risk) | Credit Risk / Machine Learning | XGBoost, LightGBM, SHAP e feature engineering |
@@ -62,6 +65,9 @@ Utilizzo principalmente Python per trasformare dati complessi in informazioni af
 - Machine learning applicato
 - Explainable AI
 - AI agent e automazione
+- Natural Language Processing
+- Language model e Transformer
+- Intelligenza artificiale from scratch
 - Dati pubblici e istituzionali
 - Analisi socio-economiche
 - Serie storiche e indicatori comparabili
