@@ -1,33 +1,33 @@
-# Luca Lullo - Data Scientist
+# Luca Lullo — Data & AI Engineer
 
-Data Scientist indipendente specializzato in **data analysis**, **data cleaning avanzato**, **machine learning** e sviluppo di sistemi di intelligenza artificiale.
+Independent **Data & AI Engineer** specializing in data analysis, advanced data cleaning, machine learning, and the development of artificial intelligence systems.
 
-Sviluppo dataset, notebook, modelli predittivi e progetti educativi in diversi ambiti, con particolare attenzione all’analisi di **dati pubblici**, **sistemi istituzionali**, **dinamiche socio-economiche**, **AI agent** e **language model costruiti dalle basi**.
+I build high-quality datasets, reproducible notebooks, predictive models, AI agents, and educational projects across multiple domains. My work primarily focuses on **public data**, **institutional systems**, **socioeconomic trends**, **AI agents**, and **language models built from scratch**.
 
-Mi occupo di:
+My work includes:
 
-- integrazione di dataset eterogenei;
-- costruzione di indicatori comparabili;
-- sviluppo di analisi riproducibili;
-- auditing e controllo della qualità dei dati;
-- modelli predittivi e supporto alle decisioni;
-- progettazione di AI agent;
-- sviluppo progressivo di language model from scratch.
+- integrating, cleaning, and validating heterogeneous datasets;
+- building comparable indicators and time series;
+- developing transparent and reproducible analyses;
+- auditing and monitoring data quality;
+- building predictive models and decision-support systems;
+- designing AI agents with routing, planning, tool use, and memory;
+- progressively implementing language models and Transformers from scratch.
 
-Utilizzo principalmente Python per trasformare dati complessi in informazioni affidabili, comprensibili e utilizzabili e per studiare in modo trasparente i meccanismi alla base dei sistemi di intelligenza artificiale.
+I primarily use **Python** to transform complex data into reliable, understandable, and actionable insights. I also build AI systems from the ground up to explore their underlying mechanisms in a transparent and practical way.
 
 ---
 
-## 🏆 Kaggle Expert in 2 categorie
+## 🏆 Kaggle Expert in Two Categories
 
 [![Kaggle](https://img.shields.io/badge/Kaggle-lucalullo-20BEFF?style=flat&logo=kaggle&logoColor=white)](https://www.kaggle.com/lucalullo)
 
-- **Datasets Expert:** rank 76 su 10.784 - miglior rank raggiunto: 70 - 13 medaglie (9 argento e 4 bronzo)
-- **Notebooks Expert:** rank 557 su 61.656 - miglior rank raggiunto: 515 - 17 medaglie di bronzo
+- **Datasets Expert:** ranked 77th out of 10,795 — highest rank: 70th — 13 medals (9 silver and 4 bronze)
+- **Notebooks Expert:** ranked 535th out of 61,632 — highest rank: 515th — 18 bronze medals
 
 ---
 
-## 🛠️ Stack tecnologico
+## 🛠️ Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
@@ -45,37 +45,37 @@ Utilizzo principalmente Python per trasformare dati complessi in informazioni af
 
 ---
 
-## 📂 Progetti in evidenza
+## 📂 Featured Projects
 
-| Progetto | Ambito | Strumenti e caratteristiche |
+| Project | Area | Tools and Key Features |
 |---|---|---|
-| [Customer Support Agent](https://github.com/lucalullo/Customer-support-agent) | AI Agent / Human-in-the-loop | Google ADK, Gemini, classificazione delle email ed escalation umana |
-| [Building AI Agent](https://github.com/lucalullo/building-ai-agent) | AI Agent from scratch | Python standard, routing, planning, parsing, esecuzione di tool e memoria |
-| [Building LLM](https://github.com/lucalullo/building-llm) | Language Model from scratch | Percorso progressivo da un modello statistico a caratteri a uno small Transformer decoder-only |
-| [Global Inequality and Poverty - 1980-2024](https://github.com/lucalullo/Global-inequality-and-poverty) | Socio-economia | Data integration e costruzione di indicatori globali comparabili |
-| [Italian Justice System Workload](https://github.com/lucalullo/Italian-justice-workload) | Dati istituzionali | Analisi civile e penale 2003-2024, auditing e controllo dei dati |
-| [Home Credit Default Risk](https://github.com/lucalullo/Home-credit-default-risk) | Credit Risk / Machine Learning | XGBoost, LightGBM, SHAP e feature engineering |
-| [Global Emissions & Temperature - 1950–2024](https://github.com/lucalullo/Global-emissions-and-temperature-1950-2024) | Clima e serie storiche | Analisi di CO₂, gas serra e temperature globali |
+| [Customer Support Agent](https://github.com/lucalullo/Customer-support-agent) | AI Agent / Human-in-the-Loop | Google ADK, Gemini, email classification, and human escalation |
+| [Building AI Agent](https://github.com/lucalullo/building-ai-agent) | AI Agent from Scratch | Standard Python, routing, planning, parsing, tool execution, and memory |
+| [Building LLM](https://github.com/lucalullo/building-llm) | Language Model from Scratch | A progressive journey from a character-level statistical model to a small decoder-only Transformer |
+| [Global Inequality and Poverty — 1980–2024](https://github.com/lucalullo/Global-inequality-and-poverty) | Socioeconomic Analysis | Data integration and development of globally comparable indicators |
+| [Italian Justice System Workload](https://github.com/lucalullo/Italian-justice-workload) | Institutional Data | Civil and criminal justice analysis for 2003–2024, data auditing, and quality control |
+| [Home Credit Default Risk](https://github.com/lucalullo/Home-credit-default-risk) | Credit Risk / Machine Learning | XGBoost, LightGBM, SHAP, and feature engineering |
+| [Global Emissions & Temperature — 1950–2024](https://github.com/lucalullo/Global-emissions-and-temperature-1950-2024) | Climate and Time Series | Analysis of CO₂ emissions, greenhouse gases, and global temperatures |
 
 ---
 
-## 🔎 Aree di interesse
+## 🔎 Areas of Interest
 
-- Data quality e data cleaning
-- Machine learning applicato
+- Data quality and advanced data cleaning
+- Applied machine learning
 - Explainable AI
-- AI agent e automazione
+- AI agents and automation
 - Natural Language Processing
-- Language model e Transformer
-- Intelligenza artificiale from scratch
-- Dati pubblici e istituzionali
-- Analisi socio-economiche
-- Serie storiche e indicatori comparabili
-- Ricerca riproducibile
+- Language models and Transformers
+- Artificial intelligence from scratch
+- Public and institutional data
+- Socioeconomic analysis
+- Time series and comparable indicators
+- Reproducible research
 
 ---
 
-## 📬 Contatti
+## 📬 Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Luca%20Lullo-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luca-lullo)
 [![Kaggle](https://img.shields.io/badge/Kaggle-lucalullo-20BEFF?style=flat&logo=kaggle&logoColor=white)](https://www.kaggle.com/lucalullo)
