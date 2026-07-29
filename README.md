@@ -1,4 +1,4 @@
-# Luca Lullo — Data & AI Engineer
+# Luca Lullo - Data & AI Engineer
 
 Independent **Data & AI Engineer** specializing in data analysis, advanced data cleaning, machine learning, and the development of artificial intelligence systems.
 
