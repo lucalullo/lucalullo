@@ -22,8 +22,8 @@ I primarily use **Python** to transform complex data into reliable, understandab
 
 [![Kaggle](https://img.shields.io/badge/Kaggle-lucalullo-20BEFF?style=flat&logo=kaggle&logoColor=white)](https://www.kaggle.com/lucalullo)
 
-- **Datasets Expert:** ranked 77th out of 10,795 — highest rank: 70th — 13 medals (9 silver and 4 bronze)
-- **Notebooks Expert:** ranked 535th out of 61,632 — highest rank: 515th — 18 bronze medals
+- **Datasets Expert:** ranked 30th out of 11,082 — highest rank: 30th — 13 medals (10 silver and 3 bronze)
+- **Notebooks Expert:** ranked 511th out of 61,380 — highest rank: 505th — 18 bronze medals
 
 ---
 
