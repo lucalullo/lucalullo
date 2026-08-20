@@ -1,29 +1,33 @@
 # Luca Lullo - Data & AI Engineer
 
-Independent **Data & AI Engineer** specializing in data analysis, advanced data cleaning, machine learning, and the development of artificial intelligence systems.
+Independent **Data & AI Engineer** focused on data engineering, advanced data cleaning, applied machine learning, and the development of AI systems.
 
-I build high-quality datasets, reproducible notebooks, predictive models, AI agents, and educational projects across multiple domains. My work primarily focuses on **public data**, **institutional systems**, **socioeconomic trends**, **AI agents**, and **language models built from scratch**.
+I build **reproducible data pipelines, high-quality datasets, predictive models, AI agents, and language models from scratch**, with a strong emphasis on transparency, experimentation, and practical implementation.
 
-My work includes:
+My work spans:
 
-- integrating, cleaning, and validating heterogeneous datasets;
-- building comparable indicators and time series;
-- developing transparent and reproducible analyses;
-- auditing and monitoring data quality;
-- building predictive models and decision-support systems;
-- designing AI agents with routing, planning, tool use, and memory;
-- progressively implementing language models and Transformers from scratch.
+- data integration, cleaning, validation, and quality control;
+- exploratory analysis and reproducible research;
+- feature engineering and predictive machine learning;
+- explainable AI and model interpretation;
+- AI agents with routing, planning, tools, memory, and human escalation;
+- agentic AutoML and experiment-driven ML systems;
+- language models and Transformers implemented from first principles;
+- analysis of public, socioeconomic, institutional, and climate data.
 
-I primarily use **Python** to transform complex data into reliable, understandable, and actionable insights. I also build AI systems from the ground up to explore their underlying mechanisms in a transparent and practical way.
+I primarily use **Python** to transform complex data into reliable, understandable, and actionable systems and insights.
 
 ---
 
-## 🏆 Kaggle Expert in Two Categories
+## 🏆 Kaggle Expert
 
 [![Kaggle](https://img.shields.io/badge/Kaggle-lucalullo-20BEFF?style=flat&logo=kaggle&logoColor=white)](https://www.kaggle.com/lucalullo)
 
-- **Datasets Expert:** ranked 30th out of 11,082 — highest rank: 30th — 13 medals (10 silver and 3 bronze)
-- **Notebooks Expert:** ranked 511th out of 61,380 — highest rank: 505th — 18 bronze medals
+**Expert in Datasets and Notebooks**
+
+- **Datasets:** Top 30
+- **Notebooks:** Top 511
+- Multiple Kaggle medals across datasets and notebooks
 
 ---
 
@@ -47,35 +51,38 @@ I primarily use **Python** to transform complex data into reliable, understandab
 
 ## 📂 Featured Projects
 
-| Project | Area | Tools and Key Features |
+| Project | Area | Highlights |
 |---|---|---|
-| [Customer Support Agent](https://github.com/lucalullo/Customer-support-agent) | AI Agent / Human-in-the-Loop | Google ADK, Gemini, email classification, and human escalation |
-| [Building AI Agent](https://github.com/lucalullo/building-ai-agent) | AI Agent from Scratch | Standard Python, routing, planning, parsing, tool execution, and memory |
-| [Building LLM](https://github.com/lucalullo/building-llm) | Language Model from Scratch | A progressive journey from a character-level statistical model to a small decoder-only Transformer |
-| [Global Inequality and Poverty — 1980–2024](https://github.com/lucalullo/Global-inequality-and-poverty) | Socioeconomic Analysis | Data integration and development of globally comparable indicators |
-| [Italian Justice System Workload](https://github.com/lucalullo/Italian-justice-workload) | Institutional Data | Civil and criminal justice analysis for 2003–2024, data auditing, and quality control |
-| [Home Credit Default Risk](https://github.com/lucalullo/Home-credit-default-risk) | Credit Risk / Machine Learning | XGBoost, LightGBM, SHAP, and feature engineering |
-| [Global Emissions & Temperature — 1950–2024](https://github.com/lucalullo/Global-emissions-and-temperature-1950-2024) | Climate and Time Series | Analysis of CO₂ emissions, greenhouse gases, and global temperatures |
+| [Building Agentic AutoML](https://github.com/lucalullo/building-agentic-automl) | Agentic AI / AutoML | Experiment-driven AutoML system evolving from a simple baseline to a senior ML agent |
+| [Customer Support Agent](https://github.com/lucalullo/customer-support-agent) | AI Agent / Human-in-the-Loop | Customer-support agent with classification, automation, and human escalation |
+| [Building AI Agent](https://github.com/lucalullo/building-ai-agent) | AI Agent from Scratch | Routing, planning, parsing, tool execution, memory, and agent skills |
+| [Building LLM](https://github.com/lucalullo/building-llm) | LLM from Scratch | Progressive implementation from statistical language modeling to a decoder-only Transformer |
+| [Global Gender Gap in Education — 1950–2015](https://github.com/lucalullo/global-gender-gap-in-education-1950-2015) | Global Data Analysis | Population-weighted analysis across 146 countries, age groups, regions, attainment levels, and income groups |
+| [Global Emissions & Temperature — 1950–2024](https://github.com/lucalullo/global-emissions-and-temperature-1950-2024) | Climate / Time Series | 75 years of CO₂, greenhouse-gas, and global temperature analysis |
+| [Home Credit Default Risk](https://github.com/lucalullo/home-credit-default-risk) | Machine Learning / Credit Risk | Feature engineering, XGBoost, Optuna, and SHAP interpretability |
+| [Used Car Prices](https://github.com/lucalullo/used-car-prices) | Regression / Machine Learning | Feature engineering and LightGBM for used-car price prediction |
+| [House Prices](https://github.com/lucalullo/house-prices) | Regression / Machine Learning | Ridge regression, skewness transformation, and advanced feature engineering |
 
 ---
 
 ## 🔎 Areas of Interest
 
-- Data quality and advanced data cleaning
+- Data engineering and data quality
+- Advanced data cleaning
 - Applied machine learning
 - Explainable AI
-- AI agents and automation
+- Agentic AI and AI agents
+- AutoML and experiment automation
 - Natural Language Processing
 - Language models and Transformers
-- Artificial intelligence from scratch
-- Public and institutional data
-- Socioeconomic analysis
-- Time series and comparable indicators
+- AI systems from scratch
+- Public and socioeconomic data
+- Climate and time-series analysis
 - Reproducible research
 
 ---
 
-## 📬 Contact
+## 📬 Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Luca%20Lullo-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luca-lullo)
 [![Kaggle](https://img.shields.io/badge/Kaggle-lucalullo-20BEFF?style=flat&logo=kaggle&logoColor=white)](https://www.kaggle.com/lucalullo)
