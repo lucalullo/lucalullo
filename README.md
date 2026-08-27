@@ -53,6 +53,7 @@ I primarily use **Python** to transform complex data into reliable, understandab
 
 | Project | Area | Highlights |
 |---|---|---|
+| [Neuro Tabular](https://github.com/lucalullo/neuro-tabular) | Deep Learning / Tabular Data | Neural-network framework for tabular learning with preprocessing, training engine, and scikit-learn-compatible API |
 | [Building Agentic AutoML](https://github.com/lucalullo/building-agentic-automl) | Agentic AI / AutoML | Experiment-driven AutoML system evolving from a simple baseline to a senior ML agent |
 | [Customer Support Agent](https://github.com/lucalullo/customer-support-agent) | AI Agent / Human-in-the-Loop | Customer-support agent with classification, automation, and human escalation |
 | [Building AI Agent](https://github.com/lucalullo/building-ai-agent) | AI Agent from Scratch | Routing, planning, parsing, tool execution, memory, and agent skills |
