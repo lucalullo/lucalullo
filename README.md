@@ -53,14 +53,16 @@ I primarily use **Python** to transform complex data into reliable, understandab
 
 | Project | Area | Highlights |
 |---|---|---|
+| [CodAdapt](https://github.com/lucalullo/codadapt) | Machine Learning / Tabular Data | Experimental ML algorithm based on adaptive coded memory and shared multi-resolution encoding for classification and regression |
 | [Neuro Tabular](https://github.com/lucalullo/neuro-tabular) | Deep Learning / Tabular Data | Neural-network framework for tabular learning with preprocessing, training engine, and scikit-learn-compatible API |
+| [BurOCRazia](https://github.com/lucalullo/burocrazia) | OCR / Data Engineering | Local and deterministic system for recognizing Italian administrative documents with OCR, traceable SQLite catalog, and offline processing |
 | [Building Agentic AutoML](https://github.com/lucalullo/building-agentic-automl) | Agentic AI / AutoML | Experiment-driven AutoML system evolving from a simple baseline to a senior ML agent |
-| [Customer Support Agent](https://github.com/lucalullo/customer-support-agent) | AI Agent / Human-in-the-Loop | Customer-support agent with classification, automation, and human escalation |
 | [Building AI Agent](https://github.com/lucalullo/building-ai-agent) | AI Agent from Scratch | Routing, planning, parsing, tool execution, memory, and agent skills |
 | [Building LLM](https://github.com/lucalullo/building-llm) | LLM from Scratch | Progressive implementation from statistical language modeling to a decoder-only Transformer |
+| [Customer Support Agent](https://github.com/lucalullo/customer-support-agent) | AI Agent / Human-in-the-Loop | Customer-support agent with classification, automation, and human escalation |
+| [Home Credit Default Risk](https://github.com/lucalullo/home-credit-default-risk) | Machine Learning / Credit Risk | Feature engineering, XGBoost, Optuna, and SHAP interpretability |
 | [Global Gender Gap in Education - 1950-2015](https://github.com/lucalullo/global-gender-gap-in-education-1950-2015) | Global Data Analysis | Population-weighted analysis across 146 countries, age groups, regions, attainment levels, and income groups |
 | [Global Emissions & Temperature - 1950-2024](https://github.com/lucalullo/global-emissions-and-temperature-1950-2024) | Climate / Time Series | 75 years of CO₂, greenhouse-gas, and global temperature analysis |
-| [Home Credit Default Risk](https://github.com/lucalullo/home-credit-default-risk) | Machine Learning / Credit Risk | Feature engineering, XGBoost, Optuna, and SHAP interpretability |
 | [Used Car Prices](https://github.com/lucalullo/used-car-prices) | Regression / Machine Learning | Feature engineering and LightGBM for used-car price prediction |
 | [House Prices](https://github.com/lucalullo/house-prices) | Regression / Machine Learning | Ridge regression, skewness transformation, and advanced feature engineering |
 
