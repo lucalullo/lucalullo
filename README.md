@@ -25,8 +25,8 @@ I primarily use **Python** to transform complex data into reliable, understandab
 
 **Expert in Datasets and Notebooks**
 
-- **Datasets:** Top 30
-- **Notebooks:** Top 511
+- **Datasets:** Top 28
+- **Notebooks:** Top 361
 - Multiple Kaggle medals across datasets and notebooks
 
 ---
