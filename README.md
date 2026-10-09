@@ -12,7 +12,7 @@ Across my projects, I emphasize testing, documentation, reproducibility, and cle
 
 **Expert in Datasets and Notebooks**
 
-- Datasets: **#24 of 11,914** (Expert, 13 medals)
+- Datasets: **#24 of 11,914** (Expert, 14 medals)
 - Notebooks: **#268 of 60,238** (Expert, 26 medals)
 
 I publish public datasets and notebooks focused on data quality, exploratory analysis, and predictive modeling.
