@@ -33,7 +33,7 @@ My repositories include experimental libraries, educational implementations, and
    Project | Description |
  |---|---|
  | [CodAdapt](https://github.com/lucalullo/codadapt) | Experimental library for tabular binary classification and regression, based on adaptive coded memory. |
- | [NeuroTabular](https://github.com/lucalullo/neuro-tabular) | Experimental PyTorch library for tabular binary classification, with a scikit-learn-style API. |
+ | [NeuroTabular](https://github.com/lucalullo/neuro-tabular) | Stable neural network library for tabular data with a scikit-learn-style API and automatic preprocessing. |
  | [BurOCRazia](https://github.com/lucalullo/burocrazia) | Local application for identifying Italian administrative documents, using OCR and a traceable SQLite catalog. |
  | [Building Agentic AutoML](https://github.com/lucalullo/building-agentic-automl) | Experimental project exploring agent-driven machine learning workflows and iterative evaluation. |
  | [Building AI Agent](https://github.com/lucalullo/building-ai-agent) | Educational Python project covering agent routing, planning, tool execution, and memory. |
