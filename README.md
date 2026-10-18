@@ -1,52 +1,83 @@
 # Luca Lullo
 
-**Data Scientist & ML Engineer**
+**Data Scientist & Machine Learning Engineer**
 
-I build open-source and personal projects in data science, machine learning, and AI, ranging from applied analysis to experimental libraries and implementations of machine learning systems from first principles.
+Python · SQL · Tabular Machine Learning · LLMs · AI Agents
 
-I mainly work with Python and SQL, focusing on data preparation, feature engineering, model evaluation, and reproducible experimentation. I also explore language models, AI agents, and experimental approaches to tabular machine learning.
+I develop open-source tools and machine learning projects, from applied data analysis to experimental algorithms and reusable Python libraries.
 
-Across my projects, I emphasize testing, documentation, reproducibility, and clear communication of methods, results, and limitations.
+My work focuses on tabular machine learning, feature engineering, model evaluation, and reproducible experimentation. I also explore language models, AI agents, and machine learning implementations from first principles.
+
+I value reliable software engineering practices, including automated testing, clear documentation, reproducibility, and transparent reporting of results and limitations.
+
+## Open-source Python libraries
+
+Two of my machine learning libraries are available on PyPI.
+
+### CodAdapt
+
+**[GitHub](https://github.com/lucalullo/codadapt) · [PyPI](https://pypi.org/project/codadapt/)**
+
+A Python library for tabular classification and regression based on adaptive coded memory and shared multi-resolution encoding.
+
+- Binary and multiclass classification, and regression
+- scikit-learn-style estimator API
+- Automatic handling of mixed tabular data
+- Experimental modeling approach with a documented stable API
+
+Install: `pip install codadapt`
+
+### NeuroTabular
+
+**[GitHub](https://github.com/lucalullo/neuro-tabular) · [PyPI](https://pypi.org/project/neurotabular/)**
+
+A PyTorch-based library for tabular classification and regression, designed to simplify neural network workflows on structured data.
+
+- Binary and multiclass classification, and regression
+- Automatic numerical and categorical preprocessing
+- scikit-learn-compatible API
+- Model evaluation, testing, and reproducible workflows
+
+Install: `pip install neurotabular`
 
 ## Kaggle
 
 **Expert in Datasets and Notebooks**
 
-- Datasets: **#24 of 11,989** (Expert, 14 medals)
-- Notebooks: **#249 of 59,944** (Expert, 28 medals)
+- **Datasets:** #24 of 11,989 (14 medals)
+- **Notebooks:** #249 of 59,944 (28 medals)
 
-I publish public datasets and notebooks focused on data quality, exploratory analysis, and predictive modeling.
+I publish datasets and notebooks focused on data quality, exploratory analysis, feature engineering, and predictive modeling.
 
-## Tools and libraries
+**[Kaggle Profile](https://www.kaggle.com/lucalullo)**
 
-Tools used across my projects and coursework:
+## Other selected projects
 
-**Languages:** Python, SQL  
-**Data analysis:** pandas, NumPy, Jupyter  
-**Machine learning:** scikit-learn, XGBoost, LightGBM, SHAP  
-**Deep learning:** PyTorch, TensorFlow  
-**Version control:** Git, GitHub
+| Project | Description |
+|---|---|
+| [MorphTree](https://github.com/lucalullo/morph-tree) | Experimental tabular machine learning library with native classification algorithms, Pure/NumPy backends, and optional Optuna tuning. |
+| [BurOCRazia](https://github.com/lucalullo/burocrazia) | Offline application for identifying Italian administrative documents using OCR and a traceable SQLite catalog. |
+| [Building Agentic AutoML](https://github.com/lucalullo/building-agentic-automl) | Experimental framework exploring agent-driven ML workflows and iterative model evaluation. |
+| [Building LLM](https://github.com/lucalullo/building-llm) | Educational implementation progressing from statistical language models to a decoder-only Transformer. |
+| [Building Decision Trees](https://github.com/lucalullo/building-decision-trees) | Decision tree implementations from first principles, including recursive trees, missing-value handling, and gradient boosting. |
+| [Home Credit Default Risk](https://github.com/lucalullo/home-credit-default-risk) | Credit-risk modeling with feature engineering, gradient boosting, and SHAP-based interpretation. |
+| [Customer Support Agent](https://github.com/lucalullo/customer-support-agent) | AI agent for request classification, automated handling, and human escalation. |
 
-## Selected projects
+## Technical skills
 
-My repositories include experimental libraries, educational implementations, and applied data analysis projects.
-   Project | Description |
- |---|---|
- | [CodAdapt](https://github.com/lucalullo/codadapt) | Experimental library for tabular binary classification and regression, based on adaptive coded memory. |
- | [NeuroTabular](https://github.com/lucalullo/neuro-tabular) | Stable neural network library for tabular data with a scikit-learn-style API and automatic preprocessing. |
- | [BurOCRazia](https://github.com/lucalullo/burocrazia) | Local application for identifying Italian administrative documents, using OCR and a traceable SQLite catalog. |
- | [MorphTree](https://github.com/lucalullo/morph-tree) | Experimental pre-1.0 native tabular ML library for binary classification, with Pure/NumPy backends, optional Optuna tuning, standalone export, and documented structural research. |
- | [Building Agentic AutoML](https://github.com/lucalullo/building-agentic-automl) | Experimental project exploring agent-driven machine learning workflows and iterative evaluation. |
- | [Building AI Agent](https://github.com/lucalullo/building-ai-agent) | Educational Python project covering agent routing, planning, tool execution, and memory. |
- | [Building LLM](https://github.com/lucalullo/building-llm) | Educational progression from statistical language modeling to a small decoder-only Transformer. |
- | [Building Decision Trees](https://github.com/lucalullo/building-decision-trees) | Educational implementation of decision trees from scratch, progressing from simple stumps to recursive trees, missing-value handling, and gradient boosting. |
- | [Customer Support Agent](https://github.com/lucalullo/customer-support-agent) | Agent project combining request classification, automated handling, and human escalation. |
- | [Home Credit Default Risk](https://github.com/lucalullo/home-credit-default-risk) | Credit-risk modeling project with feature engineering, gradient boosting, and SHAP-based interpretation. |
- | [Global Emissions & Temperature (1950-2024)](https://github.com/lucalullo/global-emissions-and-temperature-1950-2024) | Analysis of public data on CO2 emissions, greenhouse gases, and global temperature trends. |
+**Languages:** Python, SQL
 
-## Certificates
+**Data analysis:** pandas, NumPy, Jupyter
 
-I complement my projects with structured courses and certificate programs:
+**Machine learning:** scikit-learn, XGBoost, LightGBM, SHAP
+
+**Deep learning:** PyTorch, TensorFlow
+
+**Development:** Git, GitHub, testing, reproducible experiments
+
+## Courses & certificates
+
+Selected training programs:
 
 - Google Data Analytics Professional Certificate, Google
 - Production Machine Learning Systems, Google Cloud
@@ -58,4 +89,4 @@ I complement my projects with structured courses and certificate programs:
 
 ## Connect
 
-[LinkedIn](https://www.linkedin.com/in/luca-lullo) | [Kaggle](https://www.kaggle.com/lucalullo)
+[LinkedIn](https://www.linkedin.com/in/luca-lullo) · [Kaggle](https://www.kaggle.com/lucalullo)
