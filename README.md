@@ -79,13 +79,16 @@ I publish datasets and notebooks focused on data quality, exploratory analysis, 
 
 Selected training programs:
 
-- Google Data Analytics Professional Certificate, Google
-- Production Machine Learning Systems, Google Cloud
-- Supervised Machine Learning: Classification & Regression, IBM
-- Getting Started with TensorFlow 2 and Customising Your Models with TensorFlow 2, Imperial College London
-- Natural Language Processing on Google Cloud, Google Cloud
-- Computer Vision Fundamentals with Google Cloud, Google Cloud
-- Databases and SQL for Data Science with Python, IBM
+- [Google Data Analytics Professional Certificate](https://coursera.org/verify/professional-cert/JGY2YT9EKO22), Google
+- [Production Machine Learning Systems](https://coursera.org/verify/8LGA7SDSC7AD), Google Cloud
+- [Supervised Machine Learning: Classification](https://coursera.org/verify/KQ5U39M158VI), IBM
+- [Supervised Machine Learning: Regression](https://coursera.org/verify/0BK00GE09YPB), IBM
+- [Unsupervised Machine Learning](https://coursera.org/verify/0ACIK1OUU1HI), IBM
+- [Getting Started with TensorFlow 2](https://coursera.org/verify/VMAG3VY9DQ5U), Imperial College London
+- [Customising Your Models with TensorFlow 2](https://coursera.org/verify/3VL3J2N7W50V), Imperial College London
+- [Natural Language Processing on Google Cloud](https://coursera.org/verify/M3XGOAP8FFJF), Google Cloud
+- [Computer Vision Fundamentals with Google Cloud](https://coursera.org/verify/ZJYWGRE0JUXM), Google Cloud
+- [Databases and SQL for Data Science with Python](https://coursera.org/verify/FOM5M26DVH1X), IBM
 
 ## Connect
 
