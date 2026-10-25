@@ -55,7 +55,7 @@ I publish datasets and notebooks focused on data quality, exploratory analysis, 
 
 | Project | Description |
 |---|---|
-| [MorphTree](https://github.com/lucalullo/morph-tree) | Experimental tabular machine learning library with native classification algorithms, Pure/NumPy backends, and optional Optuna tuning. |
+| [MorphTree](https://github.com/lucalullo/morph-tree) | Native tree-based machine learning with structural algorithm evolution for binary classification, multiclass classification, and regression. |
 | [BurOCRazia](https://github.com/lucalullo/burocrazia) | Offline application for identifying Italian administrative documents using OCR and a traceable SQLite catalog. |
 | [Building Agentic AutoML](https://github.com/lucalullo/building-agentic-automl) | Experimental framework exploring agent-driven ML workflows and iterative model evaluation. |
 | [Building LLM](https://github.com/lucalullo/building-llm) | Educational implementation progressing from statistical language models to a decoder-only Transformer. |
