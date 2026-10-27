@@ -44,8 +44,8 @@ Install: `pip install neurotabular`
 
 **Expert in Datasets and Notebooks**
 
-- **Datasets:** #24 of 11,989 (14 medals)
-- **Notebooks:** #249 of 59,944 (28 medals)
+- **Datasets:** #22 of 12,136 (15 medals)
+- **Notebooks:** #202 of 59,179 (31 medals)
 
 I publish datasets and notebooks focused on data quality, exploratory analysis, feature engineering, and predictive modeling.
 
