@@ -12,7 +12,7 @@ I value reliable software engineering practices, including automated testing, cl
 
 ## Open-source Python libraries
 
-Two of my machine learning libraries are available on PyPI.
+Three of my machine learning libraries are available on PyPI.
 
 ### CodAdapt
 
@@ -26,6 +26,19 @@ A Python library for tabular classification and regression based on adaptive cod
 - Experimental modeling approach with a documented stable API
 
 Install: `pip install codadapt`
+
+### MorphTree
+
+**[GitHub](https://github.com/lucalullo/morph-tree) · [PyPI](https://pypi.org/project/morphtree/)**
+
+An experimental tree-based machine learning library that explores structural evolution of learning algorithms for tabular data.
+
+- Binary and multiclass classification, and regression
+- Structural mutations guided by model evaluation
+- Automatic handling of numerical, categorical, and missing data
+- Python and native C components with a scikit-learn-style API
+
+Install: `pip install morphtree`
 
 ### NeuroTabular
 
@@ -44,8 +57,8 @@ Install: `pip install neurotabular`
 
 **Expert in Datasets and Notebooks**
 
-- **Datasets:** #22 of 12,136 (15 medals)
-- **Notebooks:** #202 of 59,179 (31 medals)
+- **Datasets:** #22 of 12,305 (15 medals)
+- **Notebooks:** #191 of 58,687 (32 medals)
 
 I publish datasets and notebooks focused on data quality, exploratory analysis, feature engineering, and predictive modeling.
 
@@ -55,10 +68,10 @@ I publish datasets and notebooks focused on data quality, exploratory analysis, 
 
 | Project | Description |
 |---|---|
-| [MorphTree](https://github.com/lucalullo/morph-tree) | Native tree-based machine learning with structural algorithm evolution for binary classification, multiclass classification, and regression. |
 | [BurOCRazia](https://github.com/lucalullo/burocrazia) | Offline application for identifying Italian administrative documents using OCR and a traceable SQLite catalog. |
 | [Building Agentic AutoML](https://github.com/lucalullo/building-agentic-automl) | Experimental framework exploring agent-driven ML workflows and iterative model evaluation. |
 | [Building LLM](https://github.com/lucalullo/building-llm) | Educational implementation progressing from statistical language models to a decoder-only Transformer. |
+| [Building AI Agent](https://github.com/lucalullo/building-ai-agent) | Step-by-step implementation of AI agent components, including routing, parsing, memory, and multi-step execution. |
 | [Building Decision Trees](https://github.com/lucalullo/building-decision-trees) | Decision tree implementations from first principles, including recursive trees, missing-value handling, and gradient boosting. |
 | [Home Credit Default Risk](https://github.com/lucalullo/home-credit-default-risk) | Credit-risk modeling with feature engineering, gradient boosting, and SHAP-based interpretation. |
 | [Customer Support Agent](https://github.com/lucalullo/customer-support-agent) | AI agent for request classification, automated handling, and human escalation. |
