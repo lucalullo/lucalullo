@@ -57,8 +57,8 @@ Install: `pip install neurotabular`
 
 **Expert in Datasets and Notebooks**
 
-- **Datasets:** #22 of 12,305 (15 medals)
-- **Notebooks:** #191 of 58,687 (32 medals)
+- **Datasets:** #22 of 12,405 (15 medals)
+- **Notebooks:** #179 of 57,956 (35 medals)
 
 I publish datasets and notebooks focused on data quality, exploratory analysis, feature engineering, and predictive modeling.
 
@@ -88,6 +88,8 @@ I publish datasets and notebooks focused on data quality, exploratory analysis, 
 
 **Development:** Git, GitHub, testing, reproducible experiments
 
+**Cloud:** Google Cloud
+
 ## Courses & certificates
 
 Selected training programs:
@@ -102,6 +104,10 @@ Selected training programs:
 - [Natural Language Processing on Google Cloud](https://coursera.org/verify/M3XGOAP8FFJF), Google Cloud
 - [Computer Vision Fundamentals with Google Cloud](https://coursera.org/verify/ZJYWGRE0JUXM), Google Cloud
 - [Databases and SQL for Data Science with Python](https://coursera.org/verify/FOM5M26DVH1X), IBM
+- [Google Cloud Fundamentals: Core Infrastructure](https://coursera.org/verify/NDY1ATS4OCMT), Google Cloud
+- [Essential Google Cloud Infrastructure: Foundation](https://coursera.org/verify/XSEK4N4O6C95), Google Cloud
+- [Essential Google Cloud Infrastructure: Core Services](https://coursera.org/verify/Q86V0VBYU9GB), Google Cloud
+- [Elastic Google Cloud Infrastructure: Scaling and Automation](https://coursera.org/verify/5CI2JZPIJLTQ), Google Cloud
 
 ## Connect
 
