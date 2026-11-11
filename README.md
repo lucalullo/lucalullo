@@ -87,6 +87,7 @@ Custom gradient boosting implementation from scratch using NumPy and pandas, ach
 | [Building Decision Trees](https://github.com/lucalullo/building-decision-trees) | Decision tree implementations from first principles, including recursive trees, missing-value handling, and gradient boosting. |
 | [Home Credit Default Risk](https://github.com/lucalullo/home-credit-default-risk) | Credit-risk modeling with feature engineering, gradient boosting, and SHAP-based interpretation. |
 | [Customer Support Agent](https://github.com/lucalullo/customer-support-agent) | AI agent for request classification, automated handling, and human escalation. |
+| [Italian Justice System Analysis](https://github.com/lucalullo/italian-justice-system-analysis) | Exploratory analysis of 22 years of Italian judicial workload, examining civil and criminal proceedings, long-term trends, and population-adjusted indicators. |
 
 ## Technical skills
 
