@@ -66,6 +66,18 @@ I publish datasets and notebooks focused on data quality, exploratory analysis, 
 
 ## Other selected projects
 
+### Predicting Electric Vehicle Purchases
+
+**[GitHub](https://github.com/lucalullo/predicting-electric-vehicle-purchases) · [Kaggle](https://www.kaggle.com/code/lucalullo/predicting-electric-vehicle-purchases)**
+
+Custom gradient boosting implementation from scratch using NumPy and pandas, achieving a **0.93827 private ROC-AUC** in the Kaggle Playground Series competition.
+
+- Regression trees with numerical and categorical split optimization
+- Feature engineering, stratified validation, and early stopping
+- Original competition submission (V1), preserved without modifications
+
+---
+
 | Project | Description |
 |---|---|
 | [BurOCRazia](https://github.com/lucalullo/burocrazia) | Offline application for identifying Italian administrative documents using OCR and a traceable SQLite catalog. |
