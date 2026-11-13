@@ -64,6 +64,7 @@ I publish datasets and notebooks focused on data quality, exploratory analysis, 
 
 **[Kaggle Profile](https://www.kaggle.com/lucalullo)**
 
+
 ## Other selected projects
 
 ### Predicting Electric Vehicle Purchases
@@ -78,16 +79,30 @@ Custom gradient boosting implementation from scratch using NumPy and pandas, ach
 
 ---
 
+### Applied AI & Machine Learning
+
 | Project | Description |
 |---|---|
-| [BurOCRazia](https://github.com/lucalullo/burocrazia) | Offline application for identifying Italian administrative documents using OCR and a traceable SQLite catalog. |
-| [Building Agentic AutoML](https://github.com/lucalullo/building-agentic-automl) | Experimental framework exploring agent-driven ML workflows and iterative model evaluation. |
-| [Building LLM](https://github.com/lucalullo/building-llm) | Educational implementation progressing from statistical language models to a decoder-only Transformer. |
+| [BurOCRazia](https://github.com/lucalullo/burocrazia) | Privacy-focused offline application for identifying Italian administrative documents using OCR, evidence-based classification, and a traceable SQLite catalog. |
+| [Home Credit Default Risk](https://github.com/lucalullo/home-credit-default-risk) | Credit risk prediction using feature engineering, gradient boosting, and SHAP-based model interpretation. |
+| [Italian Justice System Analysis](https://github.com/lucalullo/italian-justice-system-analysis) | Analysis of 22 years of Italian judicial workload, covering civil and criminal proceedings, long-term trends, and population-adjusted indicators. |
+
+### LLMs & AI Agents
+
+| Project | Description |
+|---|---|
+| [Building LLM](https://github.com/lucalullo/building-llm) | Language model implementations from first principles, progressing from statistical models to a decoder-only Transformer. |
+| [Building LLM Technologies](https://github.com/lucalullo/building-llm-technologies) | Educational Python notebooks explaining 10 core LLM mechanisms, including causal masking, positional encoding, multi-head attention, Transformer blocks, and token sampling. |
 | [Building AI Agent](https://github.com/lucalullo/building-ai-agent) | Step-by-step implementation of AI agent components, including routing, parsing, memory, and multi-step execution. |
-| [Building Decision Trees](https://github.com/lucalullo/building-decision-trees) | Decision tree implementations from first principles, including recursive trees, missing-value handling, and gradient boosting. |
-| [Home Credit Default Risk](https://github.com/lucalullo/home-credit-default-risk) | Credit-risk modeling with feature engineering, gradient boosting, and SHAP-based interpretation. |
-| [Customer Support Agent](https://github.com/lucalullo/customer-support-agent) | AI agent for request classification, automated handling, and human escalation. |
-| [Italian Justice System Analysis](https://github.com/lucalullo/italian-justice-system-analysis) | Exploratory analysis of 22 years of Italian judicial workload, examining civil and criminal proceedings, long-term trends, and population-adjusted indicators. |
+| [Building Agentic AutoML](https://github.com/lucalullo/building-agentic-automl) | Experimental framework exploring agent-driven machine learning workflows, automated experimentation, and iterative model evaluation. |
+| [Customer Support Agent](https://github.com/lucalullo/customer-support-agent) | AI agent for customer request classification, automated handling, and human escalation. |
+
+### Machine Learning from Scratch
+
+| Project | Description |
+|---|---|
+| [Building Neural Networks](https://github.com/lucalullo/building-neural-networks) | Neural networks implemented from scratch using NumPy, progressing from a single neuron to deep networks with backpropagation and mini-batch training on Fashion-MNIST. |
+| [Building Decision Trees](https://github.com/lucalullo/building-decision-trees) | Decision tree implementations from first principles, covering recursive splitting, missing-value handling, and gradient boosting. |
 
 ## Technical skills
 
