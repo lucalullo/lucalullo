@@ -114,6 +114,8 @@ Custom gradient boosting implementation from scratch using NumPy and pandas, ach
 
 **Deep learning:** PyTorch, TensorFlow
 
+**LLMs & AI Agents:** Transformers, tokenization, attention mechanisms, language modeling, tool calling, agent orchestration
+
 **Development:** Git, GitHub, testing, reproducible experiments
 
 **Cloud:** Google Cloud
